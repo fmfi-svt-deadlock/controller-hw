@@ -34,3 +34,6 @@ eagle.epf
 *.info
 
 *.eps
+
+# Generated documentation
+docs/_build
