@@ -1,3 +1,6 @@
 [submodule "deps/ELL-i-Eagle-Libraries"]
 	path = deps/ELL-i-Eagle-Libraries
 	url = https://github.com/Ell-i/ELL-i-Eagle-Libraries.git
+[submodule "deps/SparkFun-Eagle-Library"]
+	path = deps/SparkFun-Eagle-Library
+	url = https://github.com/EliSu/SparkFun-Eagle-Library.git
