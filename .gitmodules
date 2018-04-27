@@ -4,3 +4,6 @@
 [submodule "deps/SparkFun-Eagle-Library"]
 	path = deps/SparkFun-Eagle-Library
 	url = https://github.com/EliSu/SparkFun-Eagle-Library.git
+[submodule "deps/Adafruit-Eagle-Library"]
+	path = deps/Adafruit-Eagle-Library
+	url = https://github.com/adafruit/Adafruit-Eagle-Library.git
